@@ -16,3 +16,6 @@ Create a package of the dependencies with: `mvn package`
 
 The jar file can also be run directly:
 `java -jar target/cargamemaven-0.0.1-SNAPSHOT.jar`
+
+## About
+This project was started in August 2017, although the initial commmit was done June 2021.
