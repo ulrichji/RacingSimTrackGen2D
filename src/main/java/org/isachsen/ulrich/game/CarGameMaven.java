@@ -32,7 +32,7 @@ class CarGameMaven implements Tickable
 		world.removeAllBodies();
 		display.run();
 		
-		track.loadTrackFromImageFile("C:/Users/ulric/Documents/workspace/cargamemaven/track.png");
+		track.loadTrackFromImageFile("track.png");
 		track.addBodiesToWorld(world);
 		
 		//Create some cars
